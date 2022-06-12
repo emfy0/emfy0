@@ -4,6 +4,10 @@ My name is **Egorov Pavel**. I'm interested in web technologies, operating syste
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emfy0&layout=compact&theme=dracula)](https://github.com/emfy0)
 
+### Technologies✨
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white)]()
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 <!--
 **emfy0/emfy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
