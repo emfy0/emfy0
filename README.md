@@ -1,4 +1,4 @@
-### Hi there 👋
+***Hi there 👋*** My name is **Egorov Pavel**. I'm interested in web technologies, operating systems, programming languages and other computer science stuff.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emfy0&layout=compact&theme=dracula)](https://github.com/emfy0)
 
