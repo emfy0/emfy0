@@ -6,7 +6,7 @@ My name is **Egorov Pavel**. I'm interested in web technologies, operating syste
 
 ## Technologies ✨
 
-* __Ruby__: Rails, websockets, RSpec, Capybara, OOP, MVC, REST, DRY, refactoring, code style
+* __Ruby__: Rails, websockets, turbo, RSpec, Capybara, OOP, MVC, REST, DRY, refactoring, code style
 
 * __Front-end__: HTML, CSS, JavaScript, CoffeeScript, jQuery, Bootstrap
 
