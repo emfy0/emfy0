@@ -1,10 +1,26 @@
-### Hi there 👋
+## Hi there 👋
+---
 
 My name is **Egorov Pavel**. I'm interested in web technologies, operating systems, programming languages and other computer science stuff.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emfy0&layout=compact&theme=dracula)](https://github.com/emfy0)
 
-### Technologies✨
+## Technologies ✨
+---
+
+* __Ruby__: Rails, websockets, RSpec, Capybara, OOP, MVC, REST, DRY, refactoring, code style
+
+* __Front-end__: HTML, CSS, JavaScript, CoffeeScript, jQuery, Bootstrap
+
+* __SQL__: PostgreSQL, SQLite
+
+* __NoSQL__: Redis
+
+* __Git__: GitLab, GitHub, Gitea
+
+* __DevOps__: Capistrano, Nginx, Docker, Heroku, Linux
+
+* __Other__ __languages__: C, Python
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -15,6 +31,29 @@ My name is **Egorov Pavel**. I'm interested in web technologies, operating syste
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+
+## Education 🎓
+---
+### University 👨‍🎓:
+
+| Degree                               | University                                 |  Status           |
+| ------------------------------------ | ------------------------------------------ | :---------------: |
+| Specialist Degree Computer security  | MIREA — Russian Technological University   | In progress       |
+
+### Courses 📝:
+
+| Course                                                                       |
+| ---------------------------------------------------------------------------- |
+| [Good Programmer](https://goodprogrammer.ru/) – Ruby on Rails crash course   |
+
+
+## Contacts 📬
+---
+
+Feel free to contact me via:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emfy0)
+[![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moonmeander47@ya.ru)
 
 
 
