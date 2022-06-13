@@ -1,12 +1,10 @@
 ## Hi there 👋
----
 
 My name is **Egorov Pavel**. I'm interested in web technologies, operating systems, programming languages and other computer science stuff.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emfy0&layout=compact&theme=dracula)](https://github.com/emfy0)
 
 ## Technologies ✨
----
 
 * __Ruby__: Rails, websockets, RSpec, Capybara, OOP, MVC, REST, DRY, refactoring, code style
 
@@ -33,7 +31,7 @@ My name is **Egorov Pavel**. I'm interested in web technologies, operating syste
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 
 ## Education 🎓
----
+
 ### University 👨‍🎓:
 
 | Degree                               | University                                 |  Status           |
@@ -48,7 +46,7 @@ My name is **Egorov Pavel**. I'm interested in web technologies, operating syste
 
 
 ## Contacts 📬
----
+
 
 Feel free to contact me via:
 
