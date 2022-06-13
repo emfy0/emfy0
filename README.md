@@ -30,21 +30,6 @@ My name is **Egorov Pavel**. I'm interested in web technologies, operating syste
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 
-## Education 🎓
-
-### University 🔬:
-
-| Degree                               | University                                 |  Status           |
-| ------------------------------------ | ------------------------------------------ | :---------------: |
-| Specialist Degree Computer security  | MIREA — Russian Technological University   | In progress       |
-
-### Courses 📝:
-
-| Course                                                                       |
-| ---------------------------------------------------------------------------- |
-| [Good Programmer](https://goodprogrammer.ru/) – Ruby on Rails crash course   |
-
-
 ## Contacts 📬
 
 
