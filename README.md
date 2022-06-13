@@ -32,7 +32,7 @@ My name is **Egorov Pavel**. I'm interested in web technologies, operating syste
 
 ## Education 🎓
 
-### University 👨‍🎓:
+### University 🔬:
 
 | Degree                               | University                                 |  Status           |
 | ------------------------------------ | ------------------------------------------ | :---------------: |
