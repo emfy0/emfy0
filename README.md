@@ -30,13 +30,8 @@ My name is **Egorov Pavel**. I'm interested in web technologies, operating syste
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 
-## Contacts 📬
 
 
-Feel free to contact me via:
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emfy0)
-[![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moonmeander47@ya.ru)
 
 
 
