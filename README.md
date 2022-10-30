@@ -1,7 +1,6 @@
-<p align="center"> ✨✨✨
 <p align="center">
   <a href="https://github.com/emfy0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emfy0&layout=compact&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emfy0&theme=react" />
   </a>
 </p>
 
