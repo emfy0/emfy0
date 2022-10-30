@@ -8,7 +8,7 @@
 <p align="center"> 🖥 🪓
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,js,vue,kubernetes,docker,gitlab" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,js,vue,docker,gitlab,kubernetes" />
   </a>
 </p>
 
