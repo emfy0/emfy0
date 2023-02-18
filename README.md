@@ -2,7 +2,7 @@
 <p align="center"> 🖥 🪓
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,js,docker,kubernetes,gitlab" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,docker,kubernetes,js,gitlab" />
   </a>
 </p>
 
